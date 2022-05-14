@@ -1,4 +1,13 @@
-.box1 {
+body {
+    font-size: 14px;
+    font-family: 'Roboto', sans-serif;
+    color: #212121;
 }
-.box2 {
+
+.hidden-title {
+    width: 1px;
+    height: 1px;
+    overflow: hidden;
+    opacity: 0;
+    margin: -1px;
 }
